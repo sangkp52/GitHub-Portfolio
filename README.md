@@ -63,19 +63,19 @@ Sử dụng Google Fonts để cải thiện typography <br>
 ## 🖼️ Demo giao diện
 
 ### 👤 About Me
-![About Me] (https://i.imgur.com/d1g8e2n.png)
+![About Me](https://i.imgur.com/d1g8e2n.png)
 
 ### 📄 Resume
-![Resume] (https://i.imgur.com/jwi2K7H.png)
+![Resume](https://i.imgur.com/jwi2K7H.png)
 
 ### 💻 Projects
-![Projects] (https://i.imgur.com/OuTcqNp.png)
+![Projects](https://i.imgur.com/OuTcqNp.png)
 
 ### 🏆 Certificate
-![Certificate] (https://i.imgur.com/XBjyvsY.png)
+![Certificate](https://i.imgur.com/XBjyvsY.png)
 
 ### 📬 Contact
-![Contact] (https://i.imgur.com/M6ZSzgO.png)
+![Contact](https://i.imgur.com/M6ZSzgO.png)
 
 ## 🚀 Kết quả đạt được <br>
 Website hoạt động ổn định trên GitHub Pages <br>
