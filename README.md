@@ -1,10 +1,10 @@
-🌐 Portfolio Website - GitHub Pages
-📌 Giới thiệu
+# 🌐 Portfolio Website - GitHub Pages
+## 📌 Giới thiệu
 
-Đây là website portfolio cá nhân của mình, được xây dựng nhằm giới thiệu bản thân, kỹ năng và các dự án đã thực hiện.
-Website được deploy bằng GitHub Pages để có thể truy cập nhanh chóng và miễn phí.
+Đây là website portfolio cá nhân của mình, được xây dựng nhằm giới thiệu bản thân, kỹ năng và các dự án đã thực hiện. <br>
+Website được deploy bằng GitHub Pages để có thể truy cập nhanh chóng và miễn phí. <br>
 
-🔗 Live Demo: <br>
+## 🔗 Live Demo: <br>
 
 👉 https://sangkp52.github.io/GitHub-Portfolio/ <br>
 
@@ -31,8 +31,8 @@ Website được thiết kế theo phong cách tối giản (minimalist), tập 
 - Certificate – Chứng chỉ
 - Contact – Thông tin liên hệ <br>
 
-🎨 Màu sắc chủ đạo: Đen (Dark theme) <br>
-📱 Responsive: Tối ưu cho desktop <br>
+### 🎨 Màu sắc chủ đạo: Đen (Dark theme) <br>
+### 📱 Responsive: Tối ưu cho desktop <br>
 
 ##  ⚙️ Quá trình thực hiện
 1. Khởi tạo project
@@ -98,6 +98,6 @@ GitHub-Portfolio/ <br>
 │   ├── images/ <br>
 │   └── icons/ <br>
 
-📬 Liên hệ <br>
+## 📬 Liên hệ <br>
 📧 Email: 4901104123@student.hcmue.edu.vn <br>
 💻 GitHub: https://github.com/sangkp52 <br>
