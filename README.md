@@ -66,16 +66,16 @@ Sử dụng Google Fonts để cải thiện typography <br>
 ![About Me](images\about me.png)
 
 ### 📄 Resume
-![Resume](images\resume.png)
+![Resume](images/resume.png)
 
 ### 💻 Projects
-![Projects](images\myproject.png)
+![Projects](images/myproject.png)
 
 ### 🏆 Certificate
-![Certificate](images\certificate.png)
+![Certificate](images/certificate.png)
 
 ### 📬 Contact
-![Contact](images\contract.png)
+![Contact](images/contract.png)
 
 ## 🚀 Kết quả đạt được 
 Website hoạt động ổn định trên GitHub Pages <br>
