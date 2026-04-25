@@ -4,7 +4,7 @@
 Đây là website portfolio cá nhân của mình, được xây dựng nhằm giới thiệu bản thân, kỹ năng và các dự án đã thực hiện. <br>
 Website được deploy bằng GitHub Pages để có thể truy cập nhanh chóng và miễn phí. <br>
 
-## 🔗 Live Demo: <br>
+## 🔗 Live Demo: 
 
 👉 https://sangkp52.github.io/GitHub-Portfolio/ <br>
 
@@ -31,8 +31,8 @@ Website được thiết kế theo phong cách tối giản (minimalist), tập 
 - Certificate – Chứng chỉ
 - Contact – Thông tin liên hệ <br>
 
-### 🎨 Màu sắc chủ đạo: Đen (Dark theme) <br>
-### 📱 Responsive: Tối ưu cho desktop <br>
+### 🎨 Màu sắc chủ đạo: Đen (Dark theme) 
+### 📱 Responsive: Tối ưu cho desktop 
 
 ##  ⚙️ Quá trình thực hiện
 1. Khởi tạo project
@@ -63,21 +63,21 @@ Sử dụng Google Fonts để cải thiện typography <br>
 ## 🖼️ Demo giao diện
 
 ### 👤 About Me
-![About Me](https://i.imgur.com/d1g8e2n.png)
+![About Me](images\about me.png)
 
 ### 📄 Resume
-![Resume](https://i.imgur.com/jwi2K7H.png)
+![Resume](images\resume.png)
 
 ### 💻 Projects
-![Projects](https://i.imgur.com/OuTcqNp.png)
+![Projects](images\myproject.png)
 
 ### 🏆 Certificate
-![Certificate](https://i.imgur.com/XBjyvsY.png)
+![Certificate](images\certificate.png)
 
 ### 📬 Contact
-![Contact](https://i.imgur.com/M6ZSzgO.png)
+![Contact](images\contract.png)
 
-## 🚀 Kết quả đạt được <br>
+## 🚀 Kết quả đạt được 
 Website hoạt động ổn định trên GitHub Pages <br>
 Giao diện rõ ràng, dễ sử dụng <br>
 Hiển thị tốt trên trình duyệt <br>
@@ -89,7 +89,7 @@ Hiển thị tốt trên trình duyệt <br>
 📂 Thêm nhiều dự án hơn <br>
 🌐 Thêm đa ngôn ngữ (VN / EN) <br>
 
-## 📁 Cấu trúc thư mục <br>
+## 📁 Cấu trúc thư mục 
 GitHub-Portfolio/ <br>
 │── index.html <br>
 │── style.css <br>
