@@ -63,7 +63,7 @@ Sử dụng Google Fonts để cải thiện typography <br>
 ## 🖼️ Demo giao diện
 
 ### 👤 About Me
-![About Me](images\about me.png)
+![About Me](images/about me.png)
 
 ### 📄 Resume
 ![Resume](images/resume.png)
