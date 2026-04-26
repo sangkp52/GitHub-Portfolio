@@ -29,7 +29,7 @@ Website được thiết kế theo phong cách tối giản (minimalist), tập 
 - Resume – Tóm tắt học vấn & kỹ năng
 - Projects – Các dự án đã thực hiện
 - Certificate – Chứng chỉ
-- Contact – Thông tin liên hệ <br>
+- Contact – Thông tin liên hệ
 
 ### 🎨 Màu sắc chủ đạo: Đen (Dark theme) 
 ### 📱 Responsive: Tối ưu cho desktop 
@@ -56,9 +56,9 @@ Kiểm tra lại sau khi deploy
 CSS bị lỗi khi deploy (không load file) <br>
 Font chữ hiển thị chưa đẹp <br>
 
-✅ Giải pháp: <br>
+✅ Giải pháp: 
 Kiểm tra lại đường dẫn CSS (dùng đường dẫn tương đối ./style.css) <br>
-Sử dụng Google Fonts để cải thiện typography <br>
+Sử dụng Google Fonts để cải thiện typography
 
 ## 🖼️ Demo giao diện
 
@@ -80,23 +80,14 @@ Sử dụng Google Fonts để cải thiện typography <br>
 ## 🚀 Kết quả đạt được 
 Website hoạt động ổn định trên GitHub Pages <br>
 Giao diện rõ ràng, dễ sử dụng <br>
-Hiển thị tốt trên trình duyệt <br>
+Hiển thị tốt trên trình duyệt
 
 ## 🔮 Hướng phát triển <br>
 🌙 Thêm Dark / Light mode toggle <br>
 ✨ Cải thiện UI/UX <br>
 🎬 Thêm animation (scroll, hover) <br>
 📂 Thêm nhiều dự án hơn <br>
-🌐 Thêm đa ngôn ngữ (VN / EN) <br>
-
-## 📁 Cấu trúc thư mục 
-GitHub-Portfolio/ <br>
-│── index.html <br>
-│── style.css <br>
-│── script.js <br>
-│── assets/ <br>
-│   ├── images/ <br>
-│   └── icons/ <br>
+🌐 Thêm đa ngôn ngữ (VN / EN)
 
 ## 📬 Liên hệ <br>
 📧 Email: 4901104123@student.hcmue.edu.vn <br>
