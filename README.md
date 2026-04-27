@@ -35,21 +35,21 @@ Website được thiết kế theo phong cách tối giản (minimalist), tập 
 ### 📱 Responsive: Tối ưu cho desktop 
 
 ##  ⚙️ Quá trình thực hiện
-1. Khởi tạo project
-Tạo repository trên GitHub
-Clone về máy để phát triển
+1. Khởi tạo project <br>
+Tạo repository trên GitHub <br>
+Clone về máy để phát triển 
 2. Xây dựng giao diện
-Tạo cấu trúc HTML cho từng section
-Thiết kế layout bằng CSS
-Thêm nội dung cá nhân
+Tạo cấu trúc HTML cho từng section <br>
+Thiết kế layout bằng CSS <br>
+Thêm nội dung cá nhân 
 3. Phát triển chức năng
-Thêm hiệu ứng bằng JavaScript
-Tối ưu responsive cho mobile
-Kiểm tra UI/UX
+Thêm hiệu ứng bằng JavaScript <br>
+Tối ưu responsive cho mobile <br>
+Kiểm tra UI/UX 
 4. Deploy website
-Sử dụng GitHub Pages
-Cấu hình branch (main hoặc gh-pages)
-Kiểm tra lại sau khi deploy
+Sử dụng GitHub Pages <br>
+Cấu hình branch (main hoặc gh-pages) <br>
+Kiểm tra lại sau khi deploy 
 
 ## ⚠️ Khó khăn & cách giải quyết 
 ❌ Vấn đề: <br>
