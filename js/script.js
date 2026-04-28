@@ -8,7 +8,7 @@ const sidebar = document.querySelector("[data-sidebar]");
 const sidebarBtn = document.querySelector("[data-sidebar-btn]");
 if(sidebarBtn) sidebarBtn.addEventListener("click", function () { elementToggleFunc(sidebar); });
 
-// Testimonials Modal (Giữ nguyên logic cũ của bạn nhưng thêm kiểm tra tồn tại)
+// Testimonials Modal 
 const testimonialsItem = document.querySelectorAll("[data-testimonials-item]");
 const modalContainer = document.querySelector("[data-modal-container]");
 const modalCloseBtn = document.querySelector("[data-modal-close-btn]");
