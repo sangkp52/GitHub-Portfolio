@@ -164,21 +164,6 @@ if (closeBtn) {
   });
 }
 
-// if (Modal) {
-//   Modal.addEventListener("click", function (e) {
-//     if (e.target === Modal) {
-//       closeModal();
-//     }
-//   });
-// }
-
-// document.addEventListener("keydown", function (e) {
-//   if (e.key === "Escape") {
-//     closeModal();
-//   }
-// });
-
-
 const portfolioLinks = document.querySelectorAll(".project-item > a, .certificate-item > a");
 
 portfolioLinks.forEach(link => {
